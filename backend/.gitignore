@@ -64,3 +64,12 @@ logs/
 # OS
 .DS_Store
 Thumbs.db
+
+# Whisper temp files
+*.srt
+*.tsv
+*.vtt
+*.txt
+*.json
+01.*
+audio-*
